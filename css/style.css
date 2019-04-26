@@ -1,4 +1,22 @@
 body {
-	background: linear-gradient(#707070, #DCDCDC);
+	background: linear-gradient(#E8E8E8, #FFFFFF);
 	font-family: helvetica;
+}
+
+.img-fluid {
+	max-width: 70%;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: grey;
+	text-decoration: none;
+}
+
+h2, h1, h4 {
+	font-weight: 600;
 }
