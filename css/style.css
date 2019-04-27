@@ -3,6 +3,10 @@ body {
 	font-family: helvetica;
 }
 
+header {
+	text-transform: uppercase;
+}
+
 .img-fluid {
 	max-width: 70%;
 }
